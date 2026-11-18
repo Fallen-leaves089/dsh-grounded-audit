@@ -15,6 +15,7 @@ DeepSeek Harness（DSH） + DeepSeek 模型的证据优先项目健康审计技�
 | 分发仓库 | `dsh-grounded-audit` |
 | 宿主 | DeepSeek Harness（DSH） |
 | 模型 | DeepSeek |
+| 适配范围 | 宿主 + 模型专项 |
 | 技能名 | `project-health-audit` |
 | 调用入口 | `/project-health-audit` |
 | 适配证据 | `documented` |
