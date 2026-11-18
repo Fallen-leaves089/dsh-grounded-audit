@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.1 - 2026-11-18
+
+- Standardize host/model-specific repository metadata, README labels, and release packaging.
+- Publish downloadable archives with SHA-256 checksums.
+
 ## 0.1.0 - 2026-11-18
 
 - Split `dsh-grounded-audit` from the grounded-audit lineage.
